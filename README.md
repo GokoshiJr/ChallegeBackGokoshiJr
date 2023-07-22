@@ -24,4 +24,4 @@ node index.js
 ```
 ## Routes to make requests
 - localhost:3000/products (GET)
-- localhost:3000/:user_id/nombre_producto (GET)
+- localhost:3000/:user_id/:nombre_producto (GET)
