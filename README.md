@@ -8,19 +8,19 @@ This is the Challenge Back repository.
 $ git clone https://github.com/GokoshiJr/ChallengeBackGokoshiJr.git
 ```
 ```bash
-npm install
+$ npm install
 ```
 
 ## Create .env file
 ```
-touch .env
+$ touch .env
 ```
 ### Add DB_URI variable in .env file
 DB_URI = YOUR_DB_URI
 
 ## Run the app
 ```
-node index.js
+$ node index.js
 ```
 ## Routes to make requests
 - localhost:3000/products (GET)
